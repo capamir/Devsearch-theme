@@ -281,7 +281,7 @@
   ========================*/
 .pagination {
   margin-top: 8rem;
-  margin-bottom: 10rem;
+  padding-bottom: 7rem;
 }
 
 .pagination > ul {
